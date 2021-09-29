@@ -314,7 +314,7 @@ body {
 
 
 
-	background-image: url("../../../../../Documents/未命名網站 2/S__79462458-horz.jpg");
+	background-image: url("../img/S__79462458-horz.jpg");
 	background-size: 769px 1300px;
 	background-origin: content-box;
 	background-attachment: scroll;
@@ -3845,7 +3845,7 @@ nav.nav-menu-show {
 
 /* line 40, C:/Users/HP/Desktop/Augst-HTML/297.Photography/Agriculture_Template/assets/scss/_h1-hero.scss */
 .slider-bg3 {
-	background-image: url(file:///C|/Users/justzero/Downloads/rettro-main/assets/img/hero/h1_hero3.png);
+	background-image: url(../img/hero/h1_hero3.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
