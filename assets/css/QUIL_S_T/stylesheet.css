@@ -1,4 +1,10 @@
 @font-face {
 	font-family: 'QUIL S T';
-	src: url('QUIL_S_T.ttf') format('truetype');
+	src: url('QUIL_S_T.ttf') format('truetype'),
+             url('QUIL S T.woff') format('woff'),
+             url('QUIL S T.woff2') format('woff2');
+}
+
+ p{
+  font-family:QUIL S T, Droid Sans, monospace;
 }

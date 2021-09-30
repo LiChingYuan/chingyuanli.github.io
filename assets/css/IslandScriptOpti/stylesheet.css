@@ -1,4 +1,10 @@
 @font-face {
 	font-family: 'IslandScriptOpti';
-	src: url('IslandScriptOpti') format('truetype');
+	src: url('IslandScriptOpti') format('truetype'),
+             url('IslandScriptOpti.woff') format('woff'),
+             url('IslandScriptOpti.woff2') format('woff2');
+}
+
+ p{
+  font-family:IslandScriptOpti, Droid Sans, monospace;
 }

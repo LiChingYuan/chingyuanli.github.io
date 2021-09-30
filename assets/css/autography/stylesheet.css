@@ -1,4 +1,10 @@
 @font-face {
 	font-family: 'autography';
-	src: url('autography') format('truetype');
+	src: url('autography.ttf') format('truetype'),
+             url('autography.woff') format('woff'),
+             url('autography.woff2') format('woff2');
+}
+
+ p{
+  font-family:autography, Droid Sans, monospace;
 }
