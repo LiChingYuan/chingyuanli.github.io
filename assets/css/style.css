@@ -3850,6 +3850,12 @@ nav.nav-menu-show {
 	background-size: cover;
 }
 
+.slider-bg4 {
+	background-image: url("../img/hero/h1_hero4.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
 /* line 49, C:/Users/HP/Desktop/Augst-HTML/297.Photography/Agriculture_Template/assets/scss/_h1-hero.scss */
 .slider-area {
   position: relative;
