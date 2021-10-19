@@ -946,11 +946,11 @@ hr {
 /* scrollUp */
 /* line 532, C:/Users/HP/Desktop/Augst-HTML/297.Photography/Agriculture_Template/assets/scss/_common.scss */
 #scrollUp, #back-top {
-  background: #071112;
-  height: 50px;
-  width: 50px;
+  background: #C0AC98;
+  height: 60px;
+  width: 60px;
   right: 31px;
-  bottom: 18px;
+  bottom: 15px;
   position: fixed;
   color: #fff;
   font-size: 20px;
