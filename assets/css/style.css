@@ -3756,6 +3756,8 @@ nav.nav-menu-show {
 /* line 233, C:/Users/HP/Desktop/Augst-HTML/297.Photography/Agriculture_Template/assets/scss/_headerMenu.scss */
 .mobile_menu .slicknav_menu .slicknav_nav a {
   font-size: 15px;
+  font-family: "LXGWWenKai Light" ;
+  text-align: right;
   padding: 7px 10px;
 }
 
